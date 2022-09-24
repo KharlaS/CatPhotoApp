@@ -13,7 +13,6 @@ Projeto construído no FreeCodeCamp.org
 
 - HTML
 
-
 ## ❤️ Contato
 
 kharlasrosario@gmail.com
